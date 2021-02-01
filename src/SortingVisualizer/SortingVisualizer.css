@@ -1,0 +1,77 @@
+.array-container{
+    position: absolute;
+    left: 100px;
+    width: 86%;
+}
+
+.arrays{
+    width: 100%;
+  margin: 0 auto;
+}
+
+.array-bar{
+    width: 8px;
+    background-color: white;
+    display: inline-block;
+    margin: 0 1px;
+    margin-top: 80px;
+    align-self: center;
+}
+
+.nav {
+    position: fixed;
+    background-color: rgb(7, 3, 110);
+    top: 0;
+    left: 0;
+    right: 0;   
+}
+
+.nav .nav-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav ul{
+    display: flex;
+    margin-left: 70px;
+}
+
+.nav button {
+    margin-top: 10px;
+    width: 90px;
+    height: 40px;
+    margin-right: 10px;
+    border-color: rgb(226, 226, 226);
+    border-radius: 5px;
+    font-family: cursive;
+    font-size: small;
+    color: seashell;
+    background-color: transparent;
+    border-radius: 3em;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    transition: color 150ms ease-in-out;
+}
+
+.nav button:hover{
+    background-color: rgb(32, 77, 175);
+}
+
+
+h1{
+    color: white;
+    margin-left: 30px;
+    margin-right: 80px;
+}
+
+.slider-container{
+    position: relative;
+}
+
+label{
+    color: rgb(251, 255, 0);
+    font-weight: 700;
+    font-style: italic;
+    margin-top: 10px;
+}
