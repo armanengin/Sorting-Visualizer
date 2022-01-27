@@ -1,5 +1,5 @@
 # Sorting Visualizer
-Welcome to Sorting Visualizer! I build this web application because I was fascinated by sorintg algorithms. Therefore, I wanted to make them visualize and observe them. You can access it here(use Google Chrome!) https://armanengin.github.io/.
+Welcome to Sorting Visualizer! I build this web application because I was fascinated by sorintg algorithms. Therefore, I wanted to make them visualize and observe them. You can access it here(use Google Chrome!) https://armanengin.github.io/armanengin-sortingVisualizer.github.io/.
 
 ## Project Description
 * This is a project visualizes the 5 important sorting algorithms(selection, insertion, bubble, merge, quick).
